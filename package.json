@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "pwa-asset-generator": "^8.0.5",
+    "workbox-cdn": "^5.1.4"
+  }
+}
